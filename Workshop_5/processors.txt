@@ -1,0 +1,5 @@
+ AMD  | RYZEN5-2600 |   2  
+Intel |   Ci9-9900K    |  3
+Intel   | PENT-PRO200 | A
+  IBM |  POWER-5  | 1
+Intel  | C2-SOLO  | 1
